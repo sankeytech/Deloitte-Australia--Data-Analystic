@@ -1,3 +1,5 @@
 # Deloitte-Australia--Data-Analystic
-Here i will be sharing what project i did at "Deloitte Australia DATA ANALYSTIC JOB SIMULATION"
-I have used 2 tool Excel,Tabular.
+ * Completed a Deloitte job simulation involving data analysis and forensic
+   technology 
+ * Created a data dashboard using Tableau 
+ * Used Excel to classify data and draw business conclusions
